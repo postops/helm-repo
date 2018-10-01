@@ -23,6 +23,6 @@ entries:
     sources:
     - https://github.com/mootpt/ghost-chart
     urls:
-    - https://www.postops.co/helm-repo/ghost-1.0.0.tgz
+    - https://postops.co/helm-repo/ghost-1.0.0.tgz
     version: 1.0.0
 generated: 2018-09-30T22:13:22.882170724-07:00
